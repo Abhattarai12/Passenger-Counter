@@ -41,4 +41,12 @@ function log() {
 
 function resetall() {
     window.location.reload();
-}
+};
+
+function decrease() {
+    if (count >= 1){
+        count -= 1;
+        countEl.textContent = count
+    } else
+    return;
+};
