@@ -23,7 +23,7 @@ button {
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
-    width: 200px;
+    width: 140px;
     margin-bottom: 5px;
     border-radius: 5px;
 }
@@ -43,4 +43,7 @@ button {
 }
 #resetall-btn {
     background: darkorange
+}
+#decrease-btn {
+    background: darkcyan
 }
